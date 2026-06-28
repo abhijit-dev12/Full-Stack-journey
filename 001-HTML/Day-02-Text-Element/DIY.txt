@@ -1,0 +1,30 @@
+#  *DO IT YOURSELF*
+Your name as an <h1>
+Your profession goal in an <h2>
+A paragraph about yourself
+Your favorite bike name in bold
+Your dream company in italic
+Your old phone price using <del>
+Your new phone price
+Write CO₂ using subscript
+Write E = mc² using superscript
+Add a horizontal line at the end
+
+
+
+#  *INTERVIEW QUESTIONS*
+
+Q. What is the difference between <b> and <strong>?
+A. Both <b> and <strong appears to be make the text bold but they serve differnt purpose.
+   The <b> tag is purely visual, whereas <strong> adds semantic importance to the text, 
+   which helps search engines and screen readers understand its meaning.
+
+Q. What is the difference between <i> and <em>?
+A. The <i> tag in HTML is used to display text in italics. It is generally used for stylistic purposes, 
+   such as denoting a different mood, voice, or foreign word, without adding any semantic 
+   emphasis to the content.
+   
+Why should a webpage generally have only one <h1>?
+What does the <hr> tag do?
+How do you write H₂O in HTML?
+How do you write x² in HTML?
