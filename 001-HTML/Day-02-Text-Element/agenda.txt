@@ -1,0 +1,17 @@
+🎯 Goal
+
+By the end of today, you should know:
+
+Headings (<h1> to <h6>)
+Paragraphs (<p>)
+Line Break (<br>)
+Horizontal Rule (<hr>)
+Bold (<b> & <strong>)
+Italic (<i> & <em>)
+Underline (<u>)
+Highlight (<mark>)
+Small Text (<small>)
+Deleted Text (<del>)
+Inserted Text (<ins>)
+Subscript (<sub>)
+Superscript (<sup>)
