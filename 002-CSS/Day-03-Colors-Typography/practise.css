@@ -1,0 +1,22 @@
+body{
+    background-color: yellow;
+}
+h4 {
+    color: blue;
+}
+
+.nigga{
+    color: green;
+}
+
+.name{
+    color: red;
+}
+
+.hex{
+    color: #00ff00;
+}
+
+.rgb{
+    color: rgb(red, green, blue);
+}
