@@ -1,0 +1,57 @@
+body{
+    background-color: gainsboro;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.profile-card{
+    min-height: 250px;
+    width: 400px;
+    background-color: white;
+    padding: 45px;
+    margin: 50px auto;
+    border: 5px;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 25);
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    text-decoration: solid;
+}
+
+.work{
+    text-align: center;
+    font-size: larger;
+}
+
+.about{
+    text-align: center;
+    font-size: larger;
+    line-height: 1.6;
+}
+
+button{
+
+padding:12px 28px;
+
+background:#2563eb;
+
+color:white;
+
+border:none;
+
+border-radius:8px;
+
+font-size:16px;
+
+cursor:pointer;
+
+transition:0.3s;
+
+}
+
+button:hover{
+    background: #1d4ed8;
+    transform: scale(1.05);
+}
