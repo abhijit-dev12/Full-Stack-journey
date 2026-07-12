@@ -1,0 +1,51 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+
+    font-family:Arial, sans-serif;
+
+    background:#f4f4f4;
+
+    padding:40px;
+
+}
+
+h1{
+
+    text-align:center;
+
+    margin-bottom:40px;
+
+}
+
+.container{
+
+    display:grid;
+
+    grid-template-columns:repeat(3,1fr);
+
+    gap:20px;
+
+}
+
+.card{
+
+    background:royalblue;
+
+    color:white;
+
+    padding:50px;
+
+    text-align:center;
+
+    border-radius:10px;
+
+    font-size:24px;
+
+    box-shadow:0 8px 20px rgba(0,0,0,.2);
+
+}
