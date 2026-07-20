@@ -37,3 +37,30 @@ if(score>=67){
 
 console.log("---------------");
 
+//nested if
+
+let hasLicense = true;
+let hasHelmet = false;
+
+if(hasLicense) {
+    if (hasLicense) {
+    console.log("You can Ride the Bike");
+} else {
+    console.log("Wear a Helmet");
+} 
+} else {
+    console.log("Gey Your license");
+}
+
+console.log("---------------");
+
+
+//ternary Operator
+
+let temprature = 32;
+
+let result = temprature > 30
+? "It's Hot"
+: "Weather is good"
+
+console.log(result);
